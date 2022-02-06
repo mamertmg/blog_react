@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a simple front-end blog with REACT for learning purposes from The Net Ninja
+This project is a simple front-end blog with create-react-app for learning purposes from The Net Ninja
 
 ## Features
 - Components
